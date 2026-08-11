@@ -50,8 +50,8 @@ const FIXED_FESTS = [
   { name: "端午",   type: "lunar", m: 5,  d: 5,  dur: 1 },
   { name: "中秋",   type: "lunar", m: 8,  d: 15, dur: 1 },
   { name: "国庆",   type: "solar", m: 10, d: 1,  dur: 3 },
-  { name: "老婆🎂",   type: "solar", m: 8,  d: 24, dur: 1 },
-  { name: "老妈🎂",    type: "solar", m: 2, d: 12,  dur: 1 },
+  { name: "老婆🎂",   type: "lunar", m: 8,  d: 24, dur: 1 },
+  { name: "老妈🎂",    type: "lunar", m: 2, d: 12,  dur: 1 },
   { name: "老爸🎂",  type: "lunar", m: 11, d: 24,  dur: 1 },
   { name: "爷爷🎂",  type: "lunar", m: 4, d: 15,  dur: 1 }
 ];
