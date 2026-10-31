@@ -1,5 +1,5 @@
-#!name = 淘宝
-#!desc = 移除开屏广告
+#!name = Ads-TaoBao
+#!desc = Ads-TaoBao
 #!author = 树先生 (Loon 原版) / Surge 转换版
 #!icon = https://github.com/ishowshu/loon/raw/refs/heads/main/icon/taobao.png
 #!system = iOS
