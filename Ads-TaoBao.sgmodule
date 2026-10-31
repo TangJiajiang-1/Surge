@@ -1,5 +1,6 @@
 #!name = Ads-TaoBao
 #!desc = Ads-TaoBao
+#!category=Ads-Taobao
 #!author = 树先生 (Loon 原版) / Surge 转换版
 #!icon = https://github.com/ishowshu/loon/raw/refs/heads/main/icon/taobao.png
 #!system = iOS
